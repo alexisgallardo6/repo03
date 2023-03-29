@@ -1,0 +1,51 @@
+
+{
+	color:#E6D3FF;
+	font-size:14pt;
+	font-weight:bold;
+	font-family:Beirut;
+}
+
+.encabezado{
+	background:#472A6F;
+	color:#E6D3FF;
+	width:90%;
+	border-radius:15px;
+}
+
+.botón_azul{
+	background:#472A6F;
+	color:#E6D3FF;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.botón_amarillo{
+	background:#472A6F;
+	color:#E6D3FF;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.botón_rojo{
+	background:#472A6F;
+	color:#E6D3FF;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.boton_azul:hover{
+	background:white;
+	color:black;
+
+}
+.boton_amarillo:hover{
+	background:white;
+	color:black;
+
+}
+.boton_rojo:hover{
+	background:white;
+	color:black;
+
+}
